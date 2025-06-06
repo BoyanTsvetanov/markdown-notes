@@ -1,6 +1,6 @@
 import React from "react";
 import { Note } from "@/domain/entities/Note";
-import { Edit, Eye, EyeClosed, Trash } from "lucide-react";
+import { Eye, EyeClosed, Trash } from "lucide-react";
 
 type Props = {
   notes: Note[];
